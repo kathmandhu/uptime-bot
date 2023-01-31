@@ -7,7 +7,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "@discordjs/rest": "^0.4.0-dev.1648166871.cedd053",
+    "@discordjs/rest": "^0.6.0",
     "ascii-table": "^0.0.9",
     "box-console": "^2.0.0",
     "colors": "^1.4.0",
