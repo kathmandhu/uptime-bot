@@ -6,4 +6,4 @@ Simple uptime bot in discord.js latest version with mongo support!
 
 #### [Support Server](https://discord.gg/zvmJzpNRzz)
 
-#### [Invite Official Discord Bot](https://discord.com/api/oauth2/authorize?client_id=860165618896207872&permissions=8&scope=bot%20applications.commands)
+#### [Invite Official Discord Bot](https://discord.com/api/oauth2/authorize?client_id=893086838531719218&permissions=8&scope=bot%20applications.commands)
